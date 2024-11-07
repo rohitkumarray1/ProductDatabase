@@ -1,0 +1,257 @@
+[
+    {
+        "id": 0,
+        "name": "Women Printed T-shirt",
+        "price": 1399,
+        "discount_percentage": 18,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Women",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Black", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_0_0.jpg",
+            "../images/Product_0_1.jpg",
+            "../images/Product_0_2.jpg"
+        ]
+    },
+
+    {
+        "id": 1,
+        "name": "Men Regular Fit Casual Sweatshirt",
+        "price": 1999,
+        "discount_percentage": 45,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Men",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Red", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_1_0.jpg",
+            "../images/Product_1_1.jpg",
+            "../images/Product_1_2.jpg"
+        ]
+    },
+
+    {
+        "id": 2,
+        "name": "V-Neck Fit & Flare Dress",
+        "price": 2990,
+        "discount_percentage": 39,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Women",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Green", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_2_0.jpg",
+            "../images/Product_2_1.jpg",
+            "../images/Product_2_2.jpg"
+        ]
+    },
+
+    {
+        "id": 3,
+        "name": "Washed Denim Shirt with Patch Pocket",
+        "price": 3499,
+        "discount_percentage": 40,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Women",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Light Blue", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_3_0.jpg",
+            "../images/Product_3_1.jpg",
+            "../images/Product_3_2.jpg"
+        ]
+    },
+
+    {
+        "id": 4,
+        "name": "Women Typographic Print Loose Fit V-Neck T-Shirt",
+        "price": 1499,
+        "discount_percentage": 35,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Women",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["White", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_4_0.jpg",
+            "../images/Product_4_1.jpg",
+            "../images/Product_4_2.jpg"
+        ]
+    },
+
+    {
+        "id": 5,
+        "name": "Men Checked Slim Fit Shirt",
+        "price": 1899,
+        "discount_percentage": 46,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Men",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["White", "Light Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_5_0.jpg",
+            "../images/Product_5_1.jpg",
+            "../images/Product_5_2.jpg"
+        ]
+    },
+
+    {
+        "id": 6,
+        "name": "Leaf Print Kurta Sharara with Dupatta Set",
+        "price": 6719,
+        "discount_percentage": 65,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "BabyCollection",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["White", "Light Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_6_0.jpg",
+            "../images/Product_6_1.jpg",
+            "../images/Product_6_2.jpg"
+        ]
+    },
+
+    {
+        "id": 7,
+        "name": "Polka-Dot Print Bandhgala Suit with Welt Pocket",
+        "price": 5999,
+        "discount_percentage": 60,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "BabyCollection",
+        "size": ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+        "color": ["Maroon", "Light Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_7_0.jpg",
+            "../images/Product_7_1.jpg",
+            "../images/Product_7_2.jpg"
+        ]
+    },
+    
+    {
+        "id": 8,
+        "name": "Men V-Neck Gray T-shirt",
+        "price": 2499,
+        "discount_percentage": 40,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Men",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Gray", "Light Blue", "Purple"],
+        "images": [
+            "../images/Product_8_0.jpg",
+            "../images/Product_8_1.jpg",
+            "../images/Product_8_2.jpg"
+        ]
+    },
+
+    {
+        "id": 9,
+        "name": "Men Round-Toe Lace-Up Sneakers",
+        "price": 6099,
+        "discount_percentage": 48,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Shoes",
+        "size": ["7", "8", "9", "10"],
+        "color": ["White", "Light Blue", "Purple"],
+        "images": [
+            "../images/Product_9_0.jpg",
+            "../images/Product_9_1.jpg",
+            "../images/Product_9_2.jpg"
+        ]
+    },
+
+    {
+        "id": 10,
+        "name": "Men Typographic Print Regular Fit Hoodie",
+        "price": 1299,
+        "discount_percentage": 10,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Men",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Gray", "Light Blue", "Purple"],
+        "images": [
+            "../images/Product_10_0.jpg",
+            "../images/Product_10_1.jpg",
+            "../images/Product_10_2.jpg"
+        ]
+    },
+
+    {
+        "id": 11,
+        "name": "Women Susy Pisco Shopping Shoulder Bag",
+        "price": 16999,
+        "discount_percentage": 38,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Bag",
+        "size": ["OS"],
+        "color": ["Maroon", "Gray", "Pink"],
+        "images": [
+            "../images/Product_11_0.jpg",
+            "../images/Product_11_1.jpg",
+            "../images/Product_11_2.jpg"
+        ]
+    },
+
+    {
+        "id": 12,
+        "name": "Women Regular Length Double Breasted Tweed Regular Fit Blazer",
+        "price": 3899 ,
+        "discount_percentage": 25,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Women",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Black", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_12_0.jpg",
+            "../images/Product_12_1.jpg",
+            "../images/Product_12_2.jpg"
+        ]
+    },
+
+    {
+        "id": 13,
+        "name": "Women Colourblock Sneakers with Lace Fastening",
+        "price": 5799,
+        "discount_percentage": 56,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Shoes",
+        "size": ["7", "8", "9", "10"],
+        "color": ["White", "Light Blue", "Purple"],
+        "images": [
+            "../images/Product_13_0.jpg",
+            "../images/Product_13_1.jpg",
+            "../images/Product_13_2.jpg"
+        ]
+    },
+
+    {
+        "id": 13,
+        "name": "Men Slim Fit Zip-Front Jacket",
+        "price": 1975 ,
+        "discount_percentage": 41,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Men",
+        "size": ["S", "M", "L", "XL"],
+        "color": ["Wine", "Blue", "Purple", "Gray"],
+        "images": [
+            "../images/Product_14_0.jpg",
+            "../images/Product_14_1.jpg",
+            "../images/Product_14_2.jpg"
+        ]
+    },
+
+    {
+        "id": 15,
+        "name": "Men Buzz Portable Multi-Purpose Pouch",
+        "price": 2599,
+        "discount_percentage": 28,
+        "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+        "category": "Bag",
+        "size": ["OS"],
+        "color": ["Black", "Gray", "Pink"],
+        "images": [
+            "../images/Product_15_0.jpg",
+            "../images/Product_15_1.jpg",
+            "../images/Product_15_2.jpg"
+        ]
+    }
+]
